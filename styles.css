@@ -570,6 +570,10 @@ img.winner.paw {
     max-height: 100%;
     font-size: 5vw;
   }
+   li {
+    list-style-position: inside;
+  }
+  
 }
 
 @media (min-width: 721px) and (max-width: 950px) {
